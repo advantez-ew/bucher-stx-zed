@@ -1,0 +1,11 @@
+id = "Bucher Structured Text"
+name = "Bucher STX"
+version = "0.0.1"
+schema_version = 1
+description = "Bucher Structured Text Zed extension"
+repository = "https://github.com/advantez-ew/Bucher-STX-zed"
+authors = ["Eric Wang <eric.wang@bucherautomation.com>"]
+themes = []
+icon_themes = []
+languages = ["languages/Bucher-STX"]
+capabilities = []
