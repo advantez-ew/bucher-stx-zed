@@ -1,0 +1,9 @@
+name = "Structured Text"
+grammar = "structured_text"
+path_suffixes = ["stxp", "stp"]
+line_comments = ["// "]
+autoclose_before = "])"
+brackets = [
+    { start = "[", end = "]", close = true, newline = false },
+    { start = "(", end = ")", close = true, newline = false },
+]
